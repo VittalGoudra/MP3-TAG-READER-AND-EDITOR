@@ -8,6 +8,9 @@ It allows users to view and edit details such as Song Title, Artist, Album, Year
 The project works with the ID3v2.3 tagging format.
 
 
+<img width="1448" height="1086" alt="Image" src="https://github.com/user-attachments/assets/33e85f97-b7e0-46c1-b9d9-bd796302cb27" />
+
+
 
 2. HOW IT WORKS
 
@@ -104,4 +107,12 @@ Successfully developed an MP3 Tag Reader and Editor using C that reads, displays
 
 * OUPUT IMAGES
 
-  
+  <img width="481" height="373" alt="Image" src="https://github.com/user-attachments/assets/22448591-1937-4a5e-8a5d-8e0d009429aa" />
+
+<img width="474" height="427" alt="Image" src="https://github.com/user-attachments/assets/0908c17e-8b99-4ce4-b7af-9c8f43e9a11a" />
+
+<img width="433" height="244" alt="Image" src="https://github.com/user-attachments/assets/08f929d2-ba20-4f3e-9a45-2158839a4ba0" />
+
+<img width="472" height="392" alt="Image" src="https://github.com/user-attachments/assets/d1cdbb8a-1684-4436-a42f-988c2069b1de" />
+
+
