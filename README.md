@@ -16,13 +16,13 @@ The project works with the ID3v2.3 tagging format.
 
 
   
-  1. COMMAND-LINE ARGUMENTS: Accepts command-line options to perform reading, editing, or display help information.
-  2. FILE VALIDATION: Checks whether the input file is a valid MP3 file.
-  3. TAG READING: Reads the ID3v2.3 tag header and extracts metadata frames.
-  4. TAG DISPLAY: Displays available information such as title, artist, album, year, genre, and composer.
-  5. TAG EDITING: Allows users to modify selected metadata fields.
-  6. FILE UPDATING: Updates the selected tag information while preserving the remaining MP3 data.
-  7. OUTPUT: Displays the updated metadata after successful editing.
+  - COMMAND-LINE ARGUMENTS: Accepts command-line options to perform reading, editing, or display help information.
+  - FILE VALIDATION: Checks whether the input file is a valid MP3 file.
+  - TAG READING: Reads the ID3v2.3 tag header and extracts metadata frames.
+  - TAG DISPLAY: Displays available information such as title, artist, album, year, genre, and composer.
+  - TAG EDITING: Allows users to modify selected metadata fields.
+  - FILE UPDATING: Updates the selected tag information while preserving the remaining MP3 data.
+  - OUTPUT: Displays the updated metadata after successful editing.
 
 
      
@@ -30,15 +30,7 @@ The project works with the ID3v2.3 tagging format.
 
 
 
-------------------
-Tag 	Description
-------------------
-TIT2	Song Title
-TPE1	Artist Name
-TALB	Album Name
-TYER	Release Year
-TCON	Music Genre
-TCOM	Composer
+
 
 
 
