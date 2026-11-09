@@ -30,7 +30,7 @@ The project works with the ID3v2.3 tagging format.
 
 
 
-
+<img width="1408" height="768" alt="Image" src="https://github.com/user-attachments/assets/82eb20ee-8b62-480d-ad00-e4c6d82ae2fb" />
 
 
 
